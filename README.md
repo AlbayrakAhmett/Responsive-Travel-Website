@@ -49,7 +49,7 @@ Bu projeyi geliştirme sürecinde öğrendiğim konular:
 ### 4. İkon Kullanımı (Remixicon & Flaticon)
 - **Remixicon** ve **Flaticon** kaynaklarından ikonlar almayı ve uygun şekilde sayfada kullanmayı öğrendim. Bu projede, kullanıcı etkileşimini artıran görsel ikonlar kullandım.
 
-## Pekiştirdiğim Konular
+## Derinlemesine Öğrendiğim Konular
 
 Bu projede geliştirdiğim bazı teknikler ve pekiştirdiğim konular şunlardır:
 
